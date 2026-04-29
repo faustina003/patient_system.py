@@ -36,3 +36,15 @@ while True:
 
     else:
         print("❌ Invalid option. Try again.")
+# Patient Record System (Python)
+
+A simple patient management system built using Python and OOP.
+
+## Features
+- Add patient records
+- View all patients
+- Search patients
+- File storage (persistent data)
+
+## Author
+Angel 
